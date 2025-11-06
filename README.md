@@ -1,6 +1,6 @@
 # My common places
 
-![](img/My_Common_Places.png)
+![](img/My_Common_places.png)
 ##  Demonstration
 <img src="img/maxgiphy.gif" alt="Demonstration on how to navigate through the map and to view the detailed itinerary" width= "300">
 
